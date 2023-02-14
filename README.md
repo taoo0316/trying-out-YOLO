@@ -22,3 +22,14 @@ There were fewer layers in this case.
 <img width="600" alt="Screenshot 2023-02-14 at 4 35 57 PM" src="https://user-images.githubusercontent.com/95064358/218769496-32a7cad9-316c-43b4-8404-038a9c936b66.png">
 
 ![predictions](https://user-images.githubusercontent.com/95064358/218769592-ec4c7146-0221-4bb4-a1da-f3d643e89d02.jpg)
+
+```Open Images dataset```
+
+<img width="607" alt="Screenshot 2023-02-14 at 5 03 19 PM" src="https://user-images.githubusercontent.com/95064358/218776184-b14369d0-2b59-42bc-8935-e3f6657ed2a6.png">
+
+![predictions](https://user-images.githubusercontent.com/95064358/218776229-1d21e26b-b200-4710-953e-23d3656e6a64.jpg)
+
+We could also use the Open Images dataset. In this case, the predictions are less precise and take longer to complete.
+
+
+
