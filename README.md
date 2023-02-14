@@ -17,7 +17,7 @@ https://pjreddie.com/darknet/yolo/
 
 ```Tiny YOLO```
 
-There were fewer layers in this case.
+There were fewer layers in this case, and the prediction took significantly less time.
 
 <img width="600" alt="Screenshot 2023-02-14 at 4 35 57 PM" src="https://user-images.githubusercontent.com/95064358/218769496-32a7cad9-316c-43b4-8404-038a9c936b66.png">
 
@@ -29,7 +29,7 @@ There were fewer layers in this case.
 
 ![predictions](https://user-images.githubusercontent.com/95064358/218776229-1d21e26b-b200-4710-953e-23d3656e6a64.jpg)
 
-We could also use the Open Images dataset. In this case, the predictions are less precise and take longer to complete.
+We could also use the Open Images dataset. In this case, the predictions were less precise and took longer to complete.
 
 
 
