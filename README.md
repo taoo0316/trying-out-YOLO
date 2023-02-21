@@ -44,5 +44,5 @@ Overall, it was interesting to try out the different functionalities of YOLO and
 I have also began reading the paper published by Joseph Redmon to learn more about the theoretical foundation of YOLO. The pdf can be found in this repository.
 
 
-
+```The darknet folder is too large in size to view. Nonetheless, let me know if you want to view the code base as well.```
 
