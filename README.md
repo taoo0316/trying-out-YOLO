@@ -31,5 +31,14 @@ There were fewer layers in this case, and the prediction took significantly less
 
 We could also use the Open Images dataset. In this case, the predictions were less precise and took longer to complete.
 
+```Training YOLO on COCO```
+
+<img width="374" alt="Screenshot 2023-02-21 at 9 24 44 PM" src="https://user-images.githubusercontent.com/95064358/220439620-270da083-c8f0-4d1c-895e-4436b239e712.png">
+
+I have also set up the necessay requirements to train YOLO on COCO on my local machine. Unfortunately it takes too long to train on a MacBook. Nonetheless, it was a good exercise.
+
+
+
+
 
 
