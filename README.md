@@ -37,7 +37,11 @@ We could also use the Open Images dataset. In this case, the predictions were le
 
 I have also set up the necessay requirements to train YOLO on COCO on my local machine. Unfortunately it takes too long to train on a MacBook. Nonetheless, it was a good exercise.
 
+```Reflections```
 
+Overall, it was interesting to try out the different functionalities of YOLO and try to train the model on my local machine. Through the process, I also got a better understanding of the trade-off between computational efficiency and accuracy. 
+
+I have also began reading the paper published by Joseph Redmon to learn more about the theoretical foundation of YOLO. The pdf can be found in this repository.
 
 
 
